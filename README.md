@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a software engineer 4th grader at Epita, part time working as a web developer.
+#### I'm a software engineer 5th grader at Epita, part time working as a web developer.
 
 #### 📫 Meet me at [mathieucailly.com](https://www.mathieucailly.com)
 
